@@ -20,7 +20,7 @@ It supports multiple domains including **Retail, SaaS, Fintech, and Enterprise**
 
 ## ⚙️ Tech Stack
 
-* Python (Pandas, NumPy)
+* Python (Pandas, NumPy, Matplotlib)
 * Streamlit
 * Power BI
 * SQL
