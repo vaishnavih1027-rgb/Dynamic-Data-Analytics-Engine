@@ -47,20 +47,17 @@ It supports multiple domains including **Retail, SaaS, Fintech, and Enterprise**
 
 ## 🏗️ System Architecture
 
-User
-  ↓
-Streamlit Web Interface (Upload + Industry Selection)
-  ↓
-Python Data Processing Layer (Pandas)
-  ↓
-Structured Dataset (`powerbi_dataset.csv`)
-  ↓
-Power BI Analytics Layer
-  ↓
-Domain-Specific Dashboards
-(Retail | SaaS | Fintech | Enterprise)
-  ↓
-Visual Insights & Business Metrics
+[User Layer]
+        ↓
+[Application Layer – Streamlit]
+        ↓
+[Processing Layer – Python/Pandas]
+        ↓
+[Data Layer – CSV]
+        ↓
+[Analytics Layer – Power BI]
+        ↓
+[Visualization Layer – Dashboards]
 
 ---
 
