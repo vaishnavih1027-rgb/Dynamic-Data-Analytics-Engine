@@ -48,18 +48,18 @@ It supports multiple domains including **Retail, SaaS, Fintech, and Enterprise**
 ## 🏗️ System Architecture
 
 User
-↓
+  ↓
 Streamlit Web Interface (Upload + Industry Selection)
-↓
+  ↓
 Python Data Processing Layer (Pandas)
-↓
+  ↓
 Structured Dataset (`powerbi_dataset.csv`)
-↓
+  ↓
 Power BI Analytics Layer
-↓
+  ↓
 Domain-Specific Dashboards
 (Retail | SaaS | Fintech | Enterprise)
-↓
+  ↓
 Visual Insights & Business Metrics
 
 ---
@@ -74,24 +74,6 @@ Visual Insights & Business Metrics
 6. Power BI dashboard opens
 7. User selects subcategory
 8. Interactive insights and visualizations are displayed
-
----
-
-## 📁 Project Structure
-
-AI_BI_PROJECT/
-│
-├── app.py
-├── requirements.txt
-├── powerbi_dataset.csv
-├── sample_data/
-├── dashboards/
-│   ├── retail.pbix
-│   ├── saas.pbix
-│   ├── fintech.pbix
-│   └── enterprise.pbix
-├── screenshots/
-└── docs/
 
 ---
 
