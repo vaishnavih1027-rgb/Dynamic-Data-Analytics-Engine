@@ -44,27 +44,9 @@ It supports multiple domains including **Retail, SaaS, Fintech, and Enterprise**
 9. Visual insights and KPIs are displayed
 
 ---
-
 ## 🏗️ System Architecture
 
-```mermaid
-flowchart TD
-    A[User] --> B[Streamlit Web Interface<br/>(Upload + Industry Selection)]
-    B --> C[Python Data Processing<br/>(Pandas - Cleaning & Transformation)]
-    C --> D[Structured Dataset<br/>(powerbi_dataset.csv)]
-    D --> E[Power BI Analytics Layer]
-    E --> F[Domain Dashboards]
-
-    F --> F1[Retail Dashboard]
-    F --> F2[SaaS Dashboard]
-    F --> F3[Fintech Dashboard]
-    F --> F4[Enterprise Dashboard]
-
-    F1 --> G[Visual Insights & KPIs]
-    F2 --> G
-    F3 --> G
-    F4 --> G
-
+![System Architecture](architecture/architecture-diagram.png)
 ---
 
 ## 👤 User Experience Flow
