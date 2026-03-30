@@ -46,7 +46,7 @@ It supports multiple domains including **Retail, SaaS, Fintech, and Enterprise**
 ---
 ## 🏗️ System Architecture
 
-![System Architecture](architecture/architecture-diagram.png)
+![System Architecture](Architecture/Architecture_diagram.png)
 ---
 
 ## 👤 User Experience Flow
