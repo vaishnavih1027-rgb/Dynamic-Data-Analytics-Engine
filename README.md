@@ -94,7 +94,22 @@ It supports multiple domains including **Retail, SaaS, Fintech, and Enterprise**
 
 ## 🖼️ Screenshots
 
-*(Add images in the screenshots folder and display here)*
+## 🖼️ Screenshots
+
+### 🔹 Streamlit Interface (Upload & Industry Selection)
+![Streamlit](screenshots/streamlit-home.png)
+
+### 🔹 Data Processing & Industry Detection
+![Data Processing](screenshots/data-processing.png)
+
+### 🔹 AI Insights & Data Quality
+![AI Insights](screenshots/ai-insights.png)
+
+### 🔹 Power BI Dashboard Overview
+![Dashboard](screenshots/dashboard-overview.png)
+
+### 🔹 Dashboard Filters & Interaction
+![Filters](screenshots/Push data.png)
 
 ---
 
